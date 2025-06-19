@@ -1,0 +1,76 @@
+.Addressdisplay-container {
+  margin-bottom: 10px;
+  width: 40%;
+  border-radius: 10px;
+  margin-left: 500px;
+  border: 1px solid black;
+  border-width: 5px;
+  margin-top: 45px;
+  box-shadow: -10px -10px 15px 0px rgba(0, 0, 0, 0.5);
+}
+.Addressdisplay-container-one {
+  margin-bottom: 10px;
+  width: 40%;
+  border-radius: 10px;
+  margin-left: 500px;
+  border: 1px solid blue;
+  border-width: 5px;
+  margin-top: 75px;
+  box-shadow: -10px -10px 15px 0px rgba(0, 0, 0, 0.5);
+}
+.all {
+  display: flex;
+  flex-wrap: wrap;
+}
+.ref {
+  font-weight: 500;
+  margin-right: 7px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.add {
+  margin-bottom: 25px;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+
+.address-icon {
+  font-weight: 500;
+  float: right;
+  margin-right: 40px;
+  border: 1px solid black;
+}
+.ref1 {
+  margin-top: 15px;
+  margin-bottom: -15px;
+  margin-left: 250px;
+  font-weight: 500;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.payment-btn {
+  margin-right: 40px;
+  margin-bottom: 45px;
+  width: 120px;
+  position: fixed;
+  right: 10px;
+  bottom: 30px;
+}
+
+.delete {
+  float: right;
+  margin-right: 30px;
+  margin-top: 70px;
+  color: rgb(221, 13, 13);
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  border: none;
+}
+.firstaddress {
+  margin-left: 600px;
+  margin-top: 290px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.adress-btn {
+  margin-left: 750px;
+}

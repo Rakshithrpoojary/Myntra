@@ -1,0 +1,99 @@
+.display {
+  display: inline-block;
+  margin-left: 80px;
+  width: 18rem;
+  max-height: 670.898px;
+}
+.individual-card {
+  max-height: 514.231px;
+  margin-top: 130px;
+  margin-bottom: 25px;
+  box-shadow: -10px -10px 15px 0px rgba(0, 0, 0, 0.5);
+}
+.item_name {
+  font-weight: 600;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.price {
+  margin-top: -15px;
+  border: 5px solid white;
+  border-top: 20px solid white;
+  border-bottom: 40px solid white;
+  flex-direction: row;
+}
+.item1 {
+  border-top: 2px solid white;
+  margin-left: 10px;
+  border: 1px 0px 0px 0px solid black;
+  margin-right: 10px;
+  font-weight: 600;
+}
+.item2 {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: rgb(125, 121, 121);
+  text-decoration: line-through;
+}
+.item3 {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: red;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.rating {
+  border: 1px solid black;
+  border-radius: 5px;
+  /* border-right: 50px; */
+  background-color: white;
+  display: flex;
+  position: absolute;
+  left: 5px;
+  right: 150px;
+  bottom: 200px;
+}
+.rating1 {
+  font-weight: 600;
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-bottom: 8px;
+}
+.rating2 {
+  font-weight: 600;
+  margin-left: 15px;
+}
+.star {
+  color: green;
+}
+.Wishlisted {
+  position: absolute;
+  bottom: 130px;
+  width: 100%;
+  border: 3px solid white;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  height: 53px;
+  margin-bottom: 10px;
+}
+.Wishlist {
+  border: 1px solid black;
+  border-radius: 5px;
+  align-content: space-around;
+  background-color: white;
+  font-weight: 600;
+  height: 50px;
+  position: absolute;
+  width: 100%;
+  margin-top: -60px;
+  top: 390px;
+  bottom: -30px;
+  transition-property: all;
+  transition-delay: 3s;
+  transition-timing-function: ease-in-out;
+}
+
+.heart {
+  color: red;
+}
+/*  */

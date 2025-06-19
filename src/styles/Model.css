@@ -1,0 +1,53 @@
+.model-container {
+  box-shadow: -10px -10px 400px 470px #79797c;
+  background-color: white;
+  position: absolute;
+  border-radius: 15px;
+  bottom: 60px;
+  border: 2px solid black;
+  margin-left: 400px;
+  margin-right: 400px;
+  height: 400px;
+  padding-left: 50px;
+  color: #1b1616;
+  border-width: 5px;
+}
+.image {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 15px;
+  height: 150px;
+  width: 150px;
+  margin-left: 180px;
+}
+.overlay {
+  padding-left: 30px;
+  margin-left: -25px;
+  margin-right: 20px;
+  padding-right: 150px;
+  margin-top: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  border: 2px solid black;
+  background-color: rgb(red, green, rgba(18, 18, 181, 0.603));
+}
+.company {
+  margin-left: 190px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 600;
+}
+.item-name {
+  margin-right: -20px;
+  margin-left: 55px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 600;
+}
+.modelprices {
+  display: flex;
+  flex-direction: row;
+  margin-left: 140px;
+}
+.model-btn {
+  margin-left: 200px;
+  width: 30%;
+}

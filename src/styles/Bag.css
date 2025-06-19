@@ -1,0 +1,40 @@
+.bag-containers {
+  width: 90%;
+  border: 3px solid black;
+  padding-right: 150px;
+  margin-left: 70px;
+}
+.full-container {
+  width: 50%;
+  border-radius: 10px;
+  border: 1px solid black;
+  border-right: 5px solid black;
+  border-top: 7px solid black;
+  position: relative;
+  margin-left: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  margin-top: 80px;
+  margin-right: 920px;
+}
+.order-price {
+  display: flex;
+}
+.order-btn {
+  margin-left: 200px;
+}
+.badge {
+  margin-left: 3px;
+  width: 30px;
+}
+.empty-bag {
+  margin-left: 600px;
+  margin-top: 250px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.addbag {
+  position: relative;
+  left: 700px;
+}

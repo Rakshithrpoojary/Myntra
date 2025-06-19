@@ -1,0 +1,60 @@
+.price-container {
+  width: 30%;
+  position: fixed;
+  top: 30px;
+  right: 50px;
+  float: right;
+  bottom: 500px;
+
+  margin-right: 100px;
+  margin-top: 60px;
+  height: 500px;
+}
+.card-text {
+  display: flex;
+  margin-top: 10px;
+}
+.discount1 {
+  margin-right: 310px;
+  font-weight: 600;
+}
+.discount2 {
+  margin-right: 290px;
+  font-weight: 600;
+}
+.discount3 {
+  margin-right: 260px;
+  font-weight: 600;
+}
+.discount4 {
+  margin-right: 270px;
+  font-weight: 600;
+}
+.price-title {
+  color: red;
+}
+.zero1 {
+  font-weight: 600;
+}
+.zero2 {
+  color: rgb(28, 160, 28);
+  font-weight: 600;
+}
+.zero3 {
+  text-decoration: line-through;
+  font-weight: 600;
+  margin-right: 2px;
+}
+.zero5 {
+  font-weight: 600;
+
+  color: rgb(29, 151, 29);
+}
+.zero4 {
+  font-weight: 600;
+  color: rgb(51, 152, 51);
+}
+.orders-btn {
+  width: 60%;
+  margin-left: 100px;
+}

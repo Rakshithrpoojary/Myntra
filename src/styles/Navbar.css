@@ -1,0 +1,19 @@
+.nav_container {
+  margin-right: 110px;
+  margin-left: 60px;
+}
+ul li a {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sup {
+  color: #ff3f6c;
+}
+.search {
+  margin-left: -5px;
+  width: 350px;
+}
+.active {
+  color: red;
+}

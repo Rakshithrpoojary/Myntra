@@ -1,0 +1,51 @@
+.payment-container {
+  width: 60%;
+  margin-left: 350px;
+  padding: 50px;
+  margin-top: 70px;
+  border: 2px solid red;
+}
+.two {
+}
+.three {
+  margin: 20px 20px 20px 20px;
+  font-weight: 600;
+  font-size: large;
+}
+.three1 {
+  font-weight: 600;
+  font-size: large;
+  display: flex;
+}
+.fles1 {
+  color: rgb(113, 9, 113);
+  margin: 20px;
+  margin-left: 600px;
+  font-size: 35px;
+}
+.fles2 {
+  color: rgb(113, 9, 113);
+  margin: 20px;
+  margin-left: 650px;
+  font-size: 35px;
+}
+.fles3 {
+  margin-right: -60px;
+  color: rgb(113, 9, 113);
+  margin-left: 730px;
+  font-size: 45px;
+  margin-top: -25px;
+}
+.three2 {
+  padding-right: 20px;
+  margin: 20px 45px 20px 25px;
+  font-weight: 600;
+  font-size: large;
+  display: flex;
+}
+.suggest {
+  margin-bottom: 25px;
+  margin-top: 4px;
+  font-weight: 600;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

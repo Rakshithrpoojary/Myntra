@@ -1,0 +1,24 @@
+.bagimage {
+  width: 50px;
+  margin-left: 90px;
+  margin-right: 20px;
+}
+.bag-nav {
+  margin-right: 700px;
+}
+.bags {
+  margin-right: 50px;
+}
+.bag-container {
+  margin-top: 150px;
+  margin-left: 50px;
+}
+.nav-container {
+  box-shadow: 10px 25px 15px 0px whitesmoke;
+  width: 100%;
+  position: sticky;
+  z-index: 100;
+}
+.active {
+  color: red;
+}
